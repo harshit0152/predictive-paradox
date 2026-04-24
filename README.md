@@ -180,25 +180,3 @@ A summary of results includes:
 
 This project demonstrates the effectiveness of machine learning techniques for time-series forecasting. Feature engineering played a significant role in improving model performance. LightGBM proved to be a suitable choice for this problem.
 
----
-
-## Future Work
-
-* Implementation of deep learning models such as LSTM or GRU
-* Inclusion of additional external variables such as holidays and events
-* Hyperparameter tuning using advanced optimization techniques
-* Deployment as a real-time forecasting system
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Acknowledgements
-
-* Dataset providers
-* Open-source libraries including LightGBM, Scikit-learn, and Pandas
-
